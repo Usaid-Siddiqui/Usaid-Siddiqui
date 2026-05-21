@@ -12,6 +12,6 @@ Specifically, I'm passionate about machine learning and embedded systems, with a
 
 <br>
 <p align="center">
-  <img src="banner1.png" alt="banner" width="100%"/>
+  <img src="banner2.png" alt="banner" width="100%"/>
 </p>
  
