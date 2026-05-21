@@ -1,7 +1,7 @@
 # Hi, I'm Usaid Siddiqui
 
 I'm currently studying Computer Science and Electrical Engineering at the University of Alabama (Class of '28).\
-Specifically, I'm passionate about machine learning and embedded systems, with a focus on building robots and intelligent hardware.
+Specifically, I'm passionate about machine learning and embedded systems, with a focus on robotics and building intelligent hardware.
 
 <br>
 
